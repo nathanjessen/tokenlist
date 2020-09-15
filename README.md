@@ -1,6 +1,6 @@
 # tokenlist
 
-[![Schema](https://github.com/nathanjessen/tokenlist/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist/actions?query=workflow%3ASchema)
+[![Schema](https://github.com/nathanjessen/tokenlist-custom/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist-custom/actions?query=workflow%3ASchema)
 
 Template for creating a tokenlist and validating against Uniswap token schema.
 
@@ -54,7 +54,7 @@ Each entry should follow the format below where the logoURI is the path to the r
     "symbol": "XYZ",
     "name": "XYZ Token",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist/master/img/xyz_token_32.png"
+    "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist-custom/master/img/xyz_token_32.png"
 }
 ```
 
@@ -83,7 +83,7 @@ Check the boxes for
 
 * Require status checks to pass before merging
 * Require branches to be up to date before merging
-* build
+* build (doesn't show up until you save page one time)
 * Include administrators
 
 Save changes
@@ -92,7 +92,7 @@ Save changes
 
 You can paste the link to your raw json file in Uniswap
 
-`https://raw.githubusercontent.com/nathanjessen/tokenlist/master/all.tokenlist.json`
+`https://raw.githubusercontent.com/nathanjessen/tokenlist-custom/master/all.tokenlist.json`
 
 or
 you can submit the list to [Ethereum token lists](https://tokenlists.org/).

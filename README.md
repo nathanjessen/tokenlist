@@ -2,7 +2,7 @@
 
 [![Schema](https://github.com/nathanjessen/tokenlist-custom/workflows/Schema/badge.svg)](https://github.com/nathanjessen/tokenlist-custom/actions?query=workflow%3ASchema)
 
-Template for creating a tokenlist and validating against Uniswap token schema.
+A collection of all tokens I am watching on Uniswap.
 
 ## Resources
 

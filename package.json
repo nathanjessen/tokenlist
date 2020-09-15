@@ -1,7 +1,7 @@
 {
-    "name": "tokenlist",
+    "name": "tokenlist-custom",
     "version": "1.0.0",
-    "description": "Template for creating a tokenlist with schema validation",
+    "description": "A collection of all tokens I am watching on Uniswap",
     "main": "index.mjs",
     "dependencies": {},
     "devDependencies": {
@@ -14,7 +14,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/nathanjessen/tokenlist.git"
+      "url": "git+https://github.com/nathanjessen/tokenlist-custom.git"
     },
     "keywords": [
       "tokens",
@@ -26,8 +26,8 @@
     "author": "Nathan Jessen",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/nathanjessen/tokenlist/issues"
+      "url": "https://github.com/nathanjessen/tokenlist-custom/issues"
     },
-    "homepage": "https://github.com/nathanjessen/tokenlist#readme"
+    "homepage": "https://github.com/nathanjessen/tokenlist-custom#readme"
   }
   

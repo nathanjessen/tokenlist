@@ -1,6 +1,6 @@
 {
-    "name": "My Tokenlist",
-    "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist/master/img/ethereum_logo.png",
+    "name": "Custom Tokenlist",
+    "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist-custom/master/img/ethereum_logo.png",
     "keywords": [
       "defi"
     ],
@@ -18,15 +18,157 @@
         "symbol": "SWAP",
         "name": "Trustswap",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist/master/img/trustswap_32.png",
+        "logoURI": "https://raw.githubusercontent.com/nathanjessen/tokenlist-custom/master/img/trustswap_32.png",
         "tags": [
           "defi"
         ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+        "symbol": "CHAIN",
+        "name": "Chain Games",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/chain_32.png",
+        "tags": [
+          "gaming"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",
+        "symbol": "KICK",
+        "name": "KickToken",
+        "decimals": 8,
+        "logoURI": "https://etherscan.io/token/images/kicktoken_32.png?v=3",
+        "tags": [
+          "finance"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xfe2786d7d1ccab8b015f6ef7392f67d778f8d8d7",
+        "symbol": "PRQ",
+        "name": "Parsiq",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11973/small/DsNgK0O.png?1596590280"
+      },
+      {
+        "chainId": 1,
+        "address": "0xabe580e7ee158da464b51ee1a83ac0289622e6be",
+        "symbol": "XFT",
+        "name": "Offshift",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11977/small/offshift_logo.png?1596597308"
+      },
+      {
+        "chainId": 1,
+        "address": "0xfffffffff15abf397da76f1dcc1a1604f45126db",
+        "symbol": "FSW",
+        "name": "Falconswap",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12256/small/falconswap.png?1598534184"
+      },
+      {
+        "chainId": 1,
+        "address": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "symbol": "FTM",
+        "name": "Fantom",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png?1558015016"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1b980e05943de3db3a459c72325338d327b6f5a9",
+        "symbol": "GEAR",
+        "name": "Bitgear",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12127/small/bitgear_logo.png?1597377982"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
+        "symbol": "KTON",
+        "name": "Darwinia CT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11895/small/logo.png?1595856452"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0ff6ffcfda92c53f615a4a75d982f399c989366b",
+        "symbol": "LAYER",
+        "name": "UniLayer",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12164/small/Unilayer.jpg?1597779313"
+      },
+      {
+        "chainId": 1,
+        "address": "0x2baecdf43734f22fd5c152db08e3c27233f0c7d2",
+        "symbol": "OM",
+        "name": "Mantra Dao",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png?1598332353"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "symbol": "SUSHI",
+        "name": "Sushi",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/small/sushi.jpg?1598623048"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+        "symbol": "TRADE",
+        "name": "Unitrade",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/11982/small/unitrade.PNG?1597009487"
+      },
+      {
+        "chainId": 1,
+        "address": "0x12f649a9e821f90bb143089a6e56846945892ffb",
+        "symbol": "UDOO",
+        "name": "Hyprr",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/3078/small/howdoo.png?1547744057"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "symbol": "MATIC",
+        "name": "Matic Network",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/4713/small/Matic.png?1553498071"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7031ab87dcc46818806ec07af46fa8c2ad2a2bfc",
+        "symbol": "TRBT",
+        "name": "Tribute",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/tribute_32.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x70a72833d6bf7f508c8224ce59ea1ef3d0ea3a38",
+        "symbol": "UTK",
+        "name": "Utrust",
+        "decimals": 18,
+        "logoURI": "https://etherscan.io/token/images/utrust_32.png"
       }
     ],
     "version": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   }
